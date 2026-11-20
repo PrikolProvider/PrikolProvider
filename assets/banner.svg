@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" fill="none" role="img" aria-label="PrikolProvider - Linux, Rust, Hyprland, DevOps">
+  <title>PrikolProvider - Linux, Rust, Hyprland, DevOps</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#253916"/>
+      <stop offset="0.55" stop-color="#1a2a10"/>
+      <stop offset="1" stop-color="#0f1a08"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C9EA63"/>
+      <stop offset="1" stop-color="#65D067"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#65D067" stop-opacity="0.30"/>
+      <stop offset="0.6" stop-color="#65D067" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#65D067" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0v40" stroke="#65D067" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <rect width="1280" height="360" fill="url(#grid)"/>
+  <ellipse cx="1040" cy="40" rx="430" ry="280" fill="url(#glow)"/>
+
+  <!-- left: identity -->
+  <rect x="72" y="112" width="6" height="70" rx="3" fill="url(#accent)"/>
+
+  <text x="104" y="152" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="1" fill="#F2F6F0">PrikolProvider</text>
+
+  <text x="106" y="192" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, monospace" font-size="19" letter-spacing="2.5" fill="#C9EA63">Linux · Rust · Hyprland · DevOps</text>
+
+  <text x="106" y="228" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="15" fill="#8FA97F">vibe coding · automation · dotfiles</text>
+
+  <text x="72" y="312" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="13" letter-spacing="1" fill="#8FA97F">github.com/PrikolProvider</text>
+
+  <!-- right: terminal card -->
+  <rect x="744" y="58" width="464" height="244" rx="16" fill="#0f1a08" fill-opacity="0.78" stroke="#65D067" stroke-opacity="0.35"/>
+  <rect x="744" y="58" width="464" height="40" rx="16" fill="#65D067" fill-opacity="0.08"/>
+  <circle cx="772" cy="78" r="5.5" fill="#C9EA63"/>
+  <circle cx="792" cy="78" r="5.5" fill="#65D067"/>
+  <circle cx="812" cy="78" r="5.5" fill="#546B3D"/>
+  <text x="1044" y="83" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="12" fill="#8FA97F">prikolprovider@github: ~</text>
+
+  <g font-family="'JetBrains Mono', 'Fira Code', ui-monospace, monospace" font-size="15">
+    <text x="772" y="136" fill="#8FA97F"><tspan fill="#65D067">$</tspan> whoami</text>
+    <text x="772" y="162" fill="#F2F6F0">prikolprovider</text>
+
+    <text x="772" y="200" fill="#8FA97F"><tspan fill="#65D067">$</tspan> echo $STACK</text>
+    <text x="772" y="226" fill="#C9EA63">rust linux hyprland docker</text>
+
+    <text x="772" y="264" fill="#8FA97F"><tspan fill="#65D067">$</tspan></text>
+  </g>
+  <rect x="792" y="251" width="9" height="15" fill="#C9EA63">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
