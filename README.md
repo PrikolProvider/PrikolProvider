@@ -10,6 +10,8 @@
 
 ## 🧭 About Me
 
+- 💻 https://prikolprovider.vercel.app/
+
 - 🐧 I use Linux, You can find my Dot Files here: https://github.com/PrikolProvider/PrikolTinum
 - 🦀 Enjoy writing in RUST
 - 🤖 Do AI tests and have experience in it
