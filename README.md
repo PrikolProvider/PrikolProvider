@@ -1,21 +1,19 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="PrikolProvider - Linux, Rust, Hyprland, DevOps" width="100%" />
+  <img src="assets/banner.svg" alt="PrikolProvider - Linux, Rust, Bash, Etc." width="100%" />
 </div>
 
 <div align="center">
   <a href="https://github.com/PrikolProvider">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=65D067&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+PrikolProvider;Linux+enjoyer+%F0%9F%90%A7;Rust+%2B+Hyprland+everyday;DevOps+%26+automation;Vibe+coding+with+Claude+Code" alt="Hi, I'm PrikolProvider" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=65D067&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+PrikolProvider;Linux+enjoyer+%F0%9F%90%A7;Rust+%2B+Hyprland+everyday;DevOps+%26+automation;Looking+for+internship" alt="Hi, I'm PrikolProvider" />
   </a>
 </div>
 
 ## 🧭 About Me
 
-- 🐧 Linux is my daily driver — tiling WM, keyboard-first workflow, zero mouse.
-- 🪟 Hyprland + dotfiles: my desktop is a config file, and I keep polishing it.
-- 🦀 Writing Rust when it has to be fast, safe and boring in production.
-- ⚙️ DevOps mindset: automation over routine, reproducible over "works on my machine".
-- 🤖 Vibe coding with **Claude Code** — prototypes in minutes, then hardened by hand.
-- 🌱 Always learning something new about systems, tooling and low-level magic.
+- 🐧 I use Linux, You can find my Dot Files here: https://github.com/PrikolProvider/PrikolTinum
+- 🦀 Enjoy writing in RUST
+- 🤖 Do AI tests and have experience in it
+- 🌱 Create useful and good Open-Source software =)
 
 <!-- Uncomment and edit to show your socials:
 <div align="center">
