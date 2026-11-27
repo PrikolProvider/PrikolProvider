@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/PrikolProvider">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=65D067&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+PrikolProvider;Linux+enjoyer+%F0%9F%90%A7;Rust+%2B+& nvim;DevOps+%26+automation;Looking+for+internship" alt="Hi, I'm PrikolProvider" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=65D067&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+PrikolProvider;Linux+enjoyer+%F0%9F%90%A7;Rust+%2B+&+nvim;DevOps+%26+automation;Looking+for+internship" alt="Hi, I'm PrikolProvider" />
   </a>
 </div>
 
